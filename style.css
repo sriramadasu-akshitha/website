@@ -1,0 +1,22 @@
+header{
+    height:100px;
+    background-color:black;
+    display:flex;
+}
+li{
+    color:white;
+    list-style-type: none;
+    padding-left:50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}ul{
+    padding: 45px 30%;
+    margin:0px;
+    display:flex;
+    
+}
+body{
+    margin:0px;
+}
+.logo-ls{
+    padding-left: 50px;
+}
